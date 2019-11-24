@@ -1,0 +1,17 @@
+.billListContainer {
+  margin: auto;
+  box-sizing: border-box;
+  width: 300px;
+}
+
+.billListRow {
+  display: block;
+}
+
+.billListContent {
+  display: inline-block;
+}
+
+.formCheckInput {
+  margin-right: 10px;
+}

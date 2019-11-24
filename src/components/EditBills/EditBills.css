@@ -1,0 +1,30 @@
+.deleteBtn {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.deleteBtn:hover {
+  color: red;
+}
+
+.editBillTitle {
+  width: 100px;
+  display: inline-block;
+}
+
+.editBillCostInput {
+  width: 200px;
+  display: inline-block;
+}
+
+.editModeBtn {
+  display: inline-block;
+  text-align: left;
+  cursor: pointer;
+}
+
+.editModeBtn:hover {
+  color: green;
+}

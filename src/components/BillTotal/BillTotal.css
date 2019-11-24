@@ -1,0 +1,25 @@
+.billTotalContainer {
+  width: 350px;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-size: 24px;
+}
+
+.totalCost {
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.totalSavedContainer {
+  width: 350px;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+
+.totalSaved {
+  font-weight: 600;
+  margin-left: 10px;
+}
